@@ -1,0 +1,8 @@
+= Loteria de Navidad =
+
+A fast-written and simple script that queries numbers for the spanish Christmas Lottery and 
+retrieves the prizes won. The values are stored in a plain text file.
+
+The free API used is from ElPais newspaper. 
+
+Execution is just `python loteria.py`

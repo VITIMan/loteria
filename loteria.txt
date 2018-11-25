@@ -1,0 +1,24 @@
+IGNACIO: 6368, premio:20 hora:19:38 
+PAKO: 72599, premio:0 hora:19:38 
+JOROGE: 39684, premio:0 hora:19:38 
+MMMERY: 84832, premio:0 hora:19:38 
+CHEX: 97283, premio:0 hora:19:38 
+MARINA: 57746, premio:0 hora:19:38 
+ISA: 62414, premio:100 hora:19:38 
+MAITE: 51815, premio:0 hora:19:38 
+ZUR ZUR: 36678, premio:20 hora:19:38 
+PEDROPA: 32084, premio:0 hora:19:38 
+LUISMI: 39969, premio:0 hora:19:38 
+IVETTE: 50547, premio:0 hora:19:38 
+P4BL0L: 30807, premio:0 hora:19:38 
+PENTXO: 67497, premio:0 hora:19:38 
+SARAY: 29282, premio:0 hora:19:38 
+VIT SAN: 72686, premio:0 hora:19:38 
+SAMER: 76581, premio:0 hora:19:38 
+RUF: 61464, premio:0 hora:19:38 
+YOLANDA: 99833, premio:0 hora:19:38 
+DAAANTE: 7550, premio:0 hora:19:38 
+PAQUI: 91217, premio:0 hora:19:38 
+GABI: 93308, premio:20 hora:19:38 
+MAILLO: 96380, premio:0 hora:19:38 
+TOTAL:160
